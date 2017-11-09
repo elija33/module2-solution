@@ -33,6 +33,8 @@ section {
 	overflow: auto;
 }
 
+/* The end of the section */
+
 #chicken {
 	border: 1px solid black;
 	text-align: center;
